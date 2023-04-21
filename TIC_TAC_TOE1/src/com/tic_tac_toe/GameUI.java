@@ -252,7 +252,7 @@ private int count=0;
                  }
             }
             else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw !");
                 resetAll();
                 count=0;
             }
@@ -281,7 +281,7 @@ private int count=0;
                  }
             }
                else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -310,7 +310,7 @@ private int count=0;
                  }
             }
                         else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -339,7 +339,7 @@ private int count=0;
                  }
             }
                         else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -368,7 +368,7 @@ private int count=0;
                  }
             }
                         else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -396,7 +396,7 @@ private int count=0;
                      Logger.getLogger(GameUI.class.getName()).log(Level.SEVERE, null, ex);
                  }
             }            else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -424,7 +424,7 @@ private int count=0;
                      Logger.getLogger(GameUI.class.getName()).log(Level.SEVERE, null, ex);
                  }
             }            else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -452,7 +452,7 @@ private int count=0;
                      Logger.getLogger(GameUI.class.getName()).log(Level.SEVERE, null, ex);
                  }
             }            else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
@@ -480,7 +480,7 @@ private int count=0;
                      Logger.getLogger(GameUI.class.getName()).log(Level.SEVERE, null, ex);
                  }
             }            else if(count+1==9){
-                JOptionPane.showMessageDialog(rootPane,"Match is Draw !");
+                JOptionPane.showMessageDialog(rootPane,"Game is Draw  !");
                 resetAll();
                 count=0;
             }
