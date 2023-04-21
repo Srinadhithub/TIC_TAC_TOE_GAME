@@ -7,5 +7,7 @@ Here some of the pictures of game while running.
 ![image](https://user-images.githubusercontent.com/117295296/233570137-6f0c7290-3446-4643-a789-4ec9f200f173.png)
 
 FUTURE SCOPE
+
+
 In this project I wrote business logic in same UI class,so due to this it avoids Single Responsibility Rule .So I suggest to seperate the business logic and UI part for more conveneint for reading and reusability of code,easily modifications in further extensions.
 
