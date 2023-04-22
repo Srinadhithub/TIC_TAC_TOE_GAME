@@ -9,5 +9,5 @@ Here some of the pictures of game while running.
 FUTURE SCOPE
 
 We include features like how many games the player X won and player O won and their score board .
-In this project I wrote business logic in same UI class,so due to this it avoids Single Responsibility Rule .So I suggest to seperate the business logic and UI part for more conveneint for reading and reusability of code,easily modifications in further extensions.
+
 
